@@ -1,0 +1,16 @@
+# A starting point; copy it with `globahire init`.
+stack:
+  - python
+  - fastapi
+  - postgres
+
+roles:
+  - backend
+  - platform
+
+remote: true
+
+exclude:
+  - unpaid
+
+min_match: 2

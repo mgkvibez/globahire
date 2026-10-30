@@ -1,0 +1,8 @@
+{"data": [
+ {"slug": "platform-engineer-berlin", "title": "Platform Engineer", "company_name": "Berlin Cloud",
+  "location": "Berlin, Germany", "remote": false, "url": "https://arbeitnow.com/view/1", "tags": ["python"],
+  "created_at": "2026-10-29", "description": "Platform team, python tooling."},
+ {"slug": "python-backend-remote", "title": "Python Backend Developer", "company_name": "Remote First",
+  "location": "Remote", "remote": true, "url": "https://arbeitnow.com/view/2", "tags": ["python", "postgres"],
+  "created_at": "2026-10-29", "description": "Backend services in python."}
+]}

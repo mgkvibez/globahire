@@ -1,0 +1,11 @@
+{"jobs": [
+ {"id": 101, "title": "Backend Engineer (Python)", "company_name": "Acme Remote", "url": "https://remotive.com/jobs/101",
+  "candidate_required_location": "Worldwide", "tags": ["python", "fastapi", "postgres"], "publication_date": "2026-10-30T06:00:00",
+  "description": "Build FastAPI services against Postgres."},
+ {"id": 102, "title": "React Frontend Developer", "company_name": "Another Co", "url": "https://remotive.com/jobs/102",
+  "candidate_required_location": "Europe", "tags": ["react", "typescript"], "publication_date": "2026-10-30T05:00:00",
+  "description": "Design systems in React."},
+ {"id": 103, "title": "Backend Platform Engineer", "company_name": "Unpaid Labs", "url": "https://remotive.com/jobs/103",
+  "candidate_required_location": "Worldwide", "tags": ["python"], "publication_date": "2026-10-30T04:00:00",
+  "description": "Unpaid internship, backend focus."}
+]}

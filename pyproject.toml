@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "globahire"
+version = "0.1.0"
+description = "Personal job radar: watch public boards for roles that match your stack and say the moment something drops."
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+authors = [{name = "mgkvibez"}]
+keywords = ["jobs", "job-search", "remote", "radar", "cli"]
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[project.scripts]
+globahire = "globahire.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["globahire*"]
